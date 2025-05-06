@@ -98,7 +98,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <div align="center">
-Made with ❤️ and ☕ by Your Name
+Made with ❤️ and ☕ by Deepanshu Pandey
 </div>
 ```
 
